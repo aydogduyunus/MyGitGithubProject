@@ -14,6 +14,9 @@ public class AtmApp {
         //version5
         System.out.println("Git öğrenmek ne kadar da keyifli ve zevkli;)");
         //version6
+        
+        
+        //remote 
 
 
 
